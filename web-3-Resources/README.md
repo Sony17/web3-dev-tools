@@ -9,18 +9,21 @@
 6.https://www.youtube.com/watch?v=lwIHKtI2_9A&list=PLwHGiYB583YuDoAjKPDfYMKOmuFIGJCnW \
 
 
-###Web-3
+###Web-3 
+
 1.https://www.youtube.com/watch?v=lwIHKtI2_9A&list=PLwHGiYB583YuDoAjKPDfYMKOmuFIGJCnW \
 2.https://docs.yieldprotocol.com/#/developers/smart_contracts_overview \
 3.https://docs.openzeppelin.com/contracts/4.x/extending-contracts \
 4.https://www.youtube.com/watch?v=tIHrNhr_OOQ \
-5.https://www.youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ \
+5.https://www.youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ 
 
 
-###Solidty
+###Solidty 
+
 1.https://yos.io/2021/05/17/gas-efficient-solidity/ \
-2.https://sm4rty.notion.site/sm4rty/Solidity-low-and-gas-bb6f19bf7d4d4556bd14b5e4bf61f22az \
+2.https://sm4rty.notion.site/sm4rty/Solidity-low-and-gas-bb6f19bf7d4d4556bd14b5e4bf61f22az 
 
 
 ### Frontend	
- 1.Scrimba \
+
+ 1.Scrimba 
